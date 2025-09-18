@@ -1,0 +1,30 @@
+.grandfother {
+    background-color: #fad7ff9d;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.children-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.child-container,
+.child {
+    background-color: #f89cf2b5;
+    padding: 15px;
+    border-radius: 8px;
+    flex: 1;
+    text-align: center;
+}
+
+.grandson {
+    background-color: #ec81e5b5;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
